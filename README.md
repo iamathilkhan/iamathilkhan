@@ -1,20 +1,34 @@
 ### 👋 Hi, I'm Ahamed Athil Khan
 
-I'm currently learning **Artificial Intelligence** and **Machine Learning**, with a goal to become job-ready within 6 weeks.
+I'm currently learning **Artificial Intelligence** and **Machine Learning**
 
-🚀 What I’ve Learned:
-- Classic ML Models: `Linear Regression`, `Logistic Regression`, `K-Nearest Neighbors (KNN)`
-- Data preprocessing, feature engineering, and interactive user prediction
+---
 
-🛠️ Projects:
-- [Linear Regression: House Price Prediction](https://github.com/iamathilkhan/linear_regression)
-- [Logistic Regression: Titanic Survival Prediction](https://github.com/iamathilkhan/logistic_regression)
-- [KNN: Social Network Purchase Prediction](https://github.com/iamathilkhan/knn_model)
+🚀 **What I’ve Learned So Far**
+- Core ML Models: `Linear Regression`, `Logistic Regression`, `K-Nearest Neighbors (KNN)`,`Decison tree`,`Random forest tree` and other classic models 
+- Data preprocessing, feature engineering, and interactive prediction systems
 
-🎯 Currently Working On:
-- Deep Learning: ANN, CNN, RNN
-- Advanced ML Techniques
-- Building more real-world AI projects
+---
 
-📫 Let's connect:  
-Feel free to explore my repos and follow along!
+🛠️ **Projects**
+
+- 📈 [House Price Predictor (Linear Regression)](https://github.com/iamathilkhan/House-price-predictor)  
+  Predicts housing prices based on key features like income, room count, and population.
+
+- 🚢 [Titanic Survival Predictor (Logistic Regression)](https://github.com/iamathilkhan/Titanic-Survival-Predictor)  
+  Classifies survival outcomes using passenger data such as age, gender, and class.
+
+- 🛍️ [KNN Purchase Predictor (K-Nearest Neighbors)](https://github.com/iamathilkhan/KNN-purchase-predictor)  
+  Predicts whether a user will make a purchase based on age and estimated salary.
+
+---
+
+🎯 **Currently Working On**
+- Deep Learning: `ANN`, `CNN`, `RNN`
+- Advanced AI Techniques
+- More real-world project applications
+
+---
+
+📫 **Let’s Connect!**  
+Feel free to explore my repositories and follow my journey into AI!
