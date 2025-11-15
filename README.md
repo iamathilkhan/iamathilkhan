@@ -59,6 +59,9 @@ I'm currently learning **Artificial Intelligence** and **Machine Learning**
 
 
 ----
+## 📊 GitHub Stats
+![Athil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamathilkhan&show_icons=true&theme=radical&count_private=true)
+----
 
 **Let’s Connect!**  
 Feel free to explore my repositories and follow my journey into AI!
