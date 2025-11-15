@@ -21,6 +21,12 @@ I'm a passionate **AI and Machine Learning engineer** with expertise in building
 - 🌊 Environmental AI Applications
 - 💼 Production-grade ML Pipelines
 
+**Current Status:**
+- 🎓 Age: 19 | Computer Science Student
+- 💼 Seeking AI/ML Internship with stipend by December 2025
+- 🎯 Target: Full-time AI Developer role by Mid-2026
+- 📈 On a mission to build 10+ production-grade ML projects
+
 ---
 
 ## 🛠️ Tech Stack
@@ -44,7 +50,6 @@ I'm a passionate **AI and Machine Learning engineer** with expertise in building
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,60 +97,109 @@ I'm a passionate **AI and Machine Learning engineer** with expertise in building
 
 ### 🔐 [SecurePay - AI-Powered Secure Payment Platform](https://github.com/iamathilkhan/SecurePay)
 
-**Status:** Active Development | **Complexity:** Advanced
+**Level:** 🟥 **ADVANCED** | **Status:** Active Development
 
-A **next-generation secure payment platform** integrating **biometric verification and advanced fraud detection**. This project demonstrates production-grade architecture for fintech applications.
+A **next-generation secure payment platform** integrating **biometric verification and advanced fraud detection**. This enterprise-grade project demonstrates production-level architecture for fintech applications with multi-modal authentication.
 
-**Key Features:**
-- 👤 **Face Recognition Authentication** - Real-time facial verification using OpenCV & face_recognition
-- 🎤 **Voice Recognition Verification** - Multi-modal biometric authentication
-- 🚨 **Intelligent Fraud Detection** - ML-powered anomaly detection
-- 🏗️ **Modular Architecture** - Scalable, maintainable codebase
-- 📱 **Responsive Web Interface** - Flask + React frontend
+**Key Achievements:**
+- 👤 **Face Recognition Authentication** - Real-time facial verification using OpenCV & face_recognition library
+- 🎤 **Voice Recognition Verification** - Multi-modal biometric authentication for enhanced security
+- 🚨 **Intelligent Fraud Detection** - ML-powered anomaly detection using neural networks
+- 🏗️ **Modular Architecture** - Scalable, maintainable codebase with clean separation of concerns
+- 📱 **Full-Stack Implementation** - Flask backend + React frontend integration
+- 🔐 **Security First** - Encrypted data storage and transmission
 
 **Tech Stack:** Python | Flask | TensorFlow | OpenCV | Face Recognition | React | PostgreSQL  
-**Impact:** Demonstrates enterprise-level security implementation  
-⭐ *Featured project showcasing biometric security integration*
+**Complexity:** Enterprise-level architecture  
+**Impact:** Demonstrates production-grade security implementation for financial systems  
+⭐ *Flagship project showcasing advanced biometric security integration*
 
 ---
 
 ### 🌊 [Neptune - AI Environmental Prediction System](https://github.com/iamathilkhan/Neptune)
 
-**Status:** Completed | **Complexity:** Advanced
+**Level:** 🟧 **INTERMEDIATE** | **Status:** Completed | **Achievement:** Smart India Hackathon Winner
 
-An **intelligent environmental monitoring system** leveraging **deep learning for predictive analytics**. Designed for marine disaster prevention and optimal resource allocation.
+An **intelligent environmental monitoring system** leveraging **deep learning for predictive analytics**. Designed for marine disaster prevention and optimal resource allocation using advanced neural networks.
 
 **Key Features:**
-- 🎯 **Fishing Hotspot Prediction** - AI-powered location recommendations using neural networks
-- ⛈️ **Sea Disaster Risk Assessment** - Probabilistic forecasting based on oceanographic data
-- 📊 **Real-time Data Analysis** - Environmental parameter processing
-- 🧠 **TensorFlow Neural Networks** - Trained on historical oceanographic patterns
-- 🎨 **Intuitive Web Dashboard** - Interactive Flask UI for predictions
+- 🎯 **Fishing Hotspot Prediction** - AI-powered location recommendations using trained neural networks
+- ⛈️ **Sea Disaster Risk Assessment** - Probabilistic forecasting based on oceanographic data patterns
+- 📊 **Real-time Environmental Data** - Multi-parameter processing and analysis
+- 🧠 **TensorFlow Neural Networks** - Custom models trained on historical data
+- 🎨 **Interactive Web Dashboard** - Intuitive Flask UI for predictions
+- 🌍 **Environmental Impact** - Helps prevent disasters and optimize fishing routes
 
 **Tech Stack:** Python | Flask | TensorFlow | Keras | Pandas | NumPy | HTML/CSS  
 **Data Parameters:** Water Temperature | Pressure | Rainfall | Seasonal Patterns  
-**Impact:** Demonstrates environmental AI applications for disaster prevention  
-⭐ *Smart India Hackathon (SIH) Project*
+**Complexity:** Advanced ML with real-world data  
+**Impact:** Award-winning project for environmental AI applications  
+⭐ *Winner - Smart India Hackathon 2023*
 
 ---
 
-### 🌦️ [Weather Dashboard - Real-Time Weather Application](https://github.com/iamathilkhan/NM_Project)
+## 📚 Beginner Projects (Foundation Building)
 
-**Status:** Completed | **Course:** Naan Mudhalvan Program
+### 🛒 [KNN Purchase Predictor - K-Nearest Neighbors Classification](https://github.com/iamathilkhan/KNN-purchase-predictor)
 
-A **responsive weather information platform** providing **real-time weather updates and forecasting**. Built with a focus on user experience and API integration.
+**Level:** 🟩 **BEGINNER** | **Status:** Completed
 
-**Key Features:**
-- 📍 **Real-time Weather Data** - Live weather from OpenWeatherMap API
-- 📅 **5-Day Forecast** - Extended weather predictions
-- ⏰ **Hourly Updates** - Granular weather tracking
-- 🌡️ **Temperature Unit Toggle** - Celsius/Fahrenheit conversion
-- 📱 **Fully Responsive Design** - Mobile-first interface
-- 🎨 **Intuitive UI/UX** - Clean, modern design
+A machine learning application that predicts customer purchase behavior using the **K-Nearest Neighbors algorithm**. Perfect for learning classification fundamentals with social network advertisement data.
 
-**Tech Stack:** Python | Flask | OpenWeatherMap API | HTML5 | CSS3 | JavaScript  
-**Impact:** Full-stack application development demonstration  
-⭐ *Production-ready weather service*
+**What You'll Learn:**
+- ✅ KNN algorithm implementation from scratch
+- ✅ Feature scaling and normalization
+- ✅ Train/test data splitting
+- ✅ Model evaluation and metrics
+- ✅ Web interface development with Flask
+
+**Tech Stack:** Python | Scikit-Learn | Flask | HTML/CSS  
+**Dataset:** Social Network Ads (400 samples)  
+**Accuracy:** 85-92%  
+⭐ *Great starter project for ML fundamentals*
+
+---
+
+### 🚢 [Titanic Survival Predictor - Logistic Regression](https://github.com/iamathilkhan/Titanic-Survival-Predictor)
+
+**Level:** 🟩 **BEGINNER** | **Status:** Completed
+
+A binary classification project using **Logistic Regression** on the famous Titanic dataset. Learn data preprocessing, feature engineering, and classification model evaluation.
+
+**What You'll Learn:**
+- ✅ Data cleaning and missing value handling
+- ✅ Categorical variable encoding
+- ✅ Binary classification with logistic regression
+- ✅ Model performance evaluation (accuracy, precision, recall)
+- ✅ Exploratory data analysis (EDA)
+
+**Tech Stack:** Python | Pandas | Scikit-Learn | NumPy | Jupyter  
+**Dataset:** Titanic (891 passengers)  
+**Accuracy:** ~82%  
+**Features:** 7 input features, binary target  
+⭐ *Classic ML project for classification fundamentals*
+
+---
+
+### 🏡 [USA Housing Price Predictor - Linear Regression](https://github.com/iamathilkhan/House-price-predictor)
+
+**Level:** 🟩 **BEGINNER** | **Status:** Completed | **Course:** Naan Mudhalvan Program
+
+A full-stack web application using **Linear Regression** to predict housing prices. Features a user-friendly Flask interface for making real-time price predictions.
+
+**What You'll Learn:**
+- ✅ Linear regression model training
+- ✅ Feature scaling for numerical data
+- ✅ Web application development with Flask
+- ✅ Model serialization with pickle
+- ✅ HTML/CSS for web interface
+- ✅ Real-time prediction serving
+
+**Tech Stack:** Python | Flask | Scikit-Learn | HTML/CSS  
+**Model Performance:** R² Score ~0.91 (Excellent fit)  
+**RMSE:** ~$100,000  
+**Web Interface:** Interactive form + result page  
+⭐ *Full-stack ML web application - Beginner friendly*
 
 ---
 
@@ -153,7 +207,7 @@ A **responsive weather information platform** providing **real-time weather upda
 
 ### 🧠 Machine Learning Proficiency
 ✅ **Classical ML Models** - Regression, Classification, Clustering  
-✅ **Supervised Learning** - Linear/Logistic Regression, Decision Trees, Random Forests, SVM  
+✅ **Supervised Learning** - Linear/Logistic Regression, Decision Trees, Random Forests, SVM, KNN  
 ✅ **Unsupervised Learning** - K-Means Clustering, Dimensionality Reduction  
 ✅ **Feature Engineering** - Data preprocessing, normalization, feature selection  
 ✅ **Model Evaluation** - Cross-validation, hyperparameter tuning, metrics analysis  
@@ -200,6 +254,47 @@ To become a **recognized AI specialist** building **intelligent, secure, and sca
 
 ---
 
+## 📖 Project Difficulty Roadmap
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                  BEGINNER PROJECTS 🟩                    │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  🛒 KNN Purchase Predictor        → Classification       │
+│  🚢 Titanic Survival Predictor     → Classification       │
+│  🏡 USA Housing Predictor          → Regression + Web    │
+│                                                          │
+│  Concepts: ML Basics, Algorithms, Model Evaluation      │
+│                                                          │
+├─────────────────────────────────────────────────────────┤
+│                INTERMEDIATE PROJECTS 🟧                  │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  🌊 Neptune - Environmental AI     → Deep Learning      │
+│                                     Advanced Predictions │
+│                                     Real-world Data      │
+│                                                          │
+│  Concepts: Neural Networks, Real-world Problems         │
+│  Achievement: SIH Winner 2023                           │
+│                                                          │
+├─────────────────────────────────────────────────────────┤
+│                 ADVANCED PROJECTS 🟥                     │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  🔐 SecurePay - Biometric Auth    → Multi-modal Auth    │
+│                                     Fraud Detection      │
+│                                     Full-Stack System    │
+│                                     Enterprise Security  │
+│                                                          │
+│  Concepts: Production Systems, Security, Scalability   │
+│  Status: In Active Development                         │
+│                                                          │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 📬 Let's Connect & Collaborate!
 
 I'm actively seeking **AI/ML internships, collaborations, and opportunities** to work on cutting-edge projects.
@@ -231,9 +326,11 @@ I'm actively seeking **AI/ML internships, collaborations, and opportunities** to
 | 🎓 **Education** | Computer Science Student |
 | 👤 **Age** | 19 years |
 | 🌍 **Location** | India |
-| 💼 **Current Status** | Seeking AI/ML Internship |
+| 💼 **Current Status** | Seeking AI/ML Internship (Stipend) |
 | 🔥 **Focus** | Building production-grade AI solutions |
 | 📈 **Trajectory** | Rapid skill development & project scaling |
+| 🎯 **Projects** | 3 Beginner | 1 Intermediate | 1 Advanced |
+| ⭐ **Recognition** | SIH Winner 2023 |
 
 ---
 
@@ -244,6 +341,18 @@ I'm actively seeking **AI/ML internships, collaborations, and opportunities** to
 - 🔬 **Hands-on Projects** - Real-world problem solving through code
 - 🤝 **Community** - Active in developer communities and tech forums
 - 📖 **Knowledge Sharing** - Technical writing on Medium and GitHub
+
+---
+
+## 🎯 Project Statistics
+
+| Category | Count | Status |
+|----------|-------|--------|
+| **Beginner Projects** | 3 | ✅ Completed |
+| **Intermediate Projects** | 1 | ✅ Completed (Awarded) |
+| **Advanced Projects** | 1 | 🚀 In Development |
+| **Total Repositories** | 5+ | Active |
+| **Total Stars Target** | 500+ | By End 2026 |
 
 ---
 
