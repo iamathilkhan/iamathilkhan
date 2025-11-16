@@ -36,7 +36,6 @@ I build machine learning systems and full-stack applications. Currently learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,14 +79,14 @@ I build machine learning systems and full-stack applications. Currently learning
 
 ---
 
-## 🌊 What I Build
+## What I Build So Far
 
 ### 🌊 [Neptune — Environmental Risk Prediction](https://github.com/iamathilkhan/Neptune)
 **ML Backend | TensorFlow | Flask | Real-time Predictions**
 
-Trained neural networks to predict fishing hotspots and sea disaster risk from oceanographic data. Model trained on 5000+ environmental samples, achieving 89% accuracy on validation set. Includes working web interface for real-time predictions.
+Trained neural networks to predict fishing chance prediction and sea disaster risk percentage prediction from oceanographic data.It requires user to enter data by the next version of this project Im trying to integrate real-time data access to make it easier for user to predict fishing hotsopts and disaster prone zone
 
-**Results:** 🎯 89% accuracy | ⚡ <200ms response time | 🧠 Two independent prediction models
+**Results:** 🎯 89% accuracy | ⚡ <200ms response time | 🧠 Two independent Sequnetial models
 
 ---
 
@@ -96,7 +95,7 @@ Trained neural networks to predict fishing hotspots and sea disaster risk from o
 
 Building a secure payment platform with multi-modal biometric authentication. Face recognition model trained on custom dataset, 92% accuracy. Complete Flask backend architecture with modular design. Frontend integration in progress.
 
-**Status:** 📊 43% complete (Architecture & backend complete) | 👤 Face recognition: 92% accuracy | 🚨 Fraud detection model: In development
+**Status:** 📊 43% complete (Architecture & backend complete) | 👤 Face recognition: In Development | 🚨 Fraud detection model: In Development
 
 ---
 
@@ -167,9 +166,8 @@ Linear regression system predicting house prices from demographic and geographic
 
 ### Immediate (2025-2026)
 - 🎯 Secure AI/ML or Web Dev internship by **December 2025**
-- 📱 Deploy Neptune to production (live demo)
+- 📱 Deploy Neptune to production ( Will be available soon )
 - 🔐 Complete SecurePay frontend + fraud detection
-- 📚 Contribute to open-source projects
 
 ### Medium-term (2026)
 - 🏢 Full-time developer role
@@ -189,7 +187,7 @@ Linear regression system predicting house prices from demographic and geographic
 
 **💻 GitHub:** [github.com/iamathilkhan](https://github.com/iamathilkhan)
 
-**📝 Medium:** [medium.com/@athilkhan2005](https://medium.com/@athilkhan2005) *(Coming Soon)*
+**📝 Medium:** [medium.com/@athilkhan2005](https://medium.com/@athilkhan2005)
 
 </p>
 
