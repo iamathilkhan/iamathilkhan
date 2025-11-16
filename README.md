@@ -68,15 +68,6 @@ I build machine learning systems and full-stack applications. Currently learning
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamathilkhan&theme=radical&no-frame=true&row=1&column=4" width="100%" alt="GitHub Trophies" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamathilkhan&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Activity" />
-</p>
-
 ---
 
 ## What I Build So Far
