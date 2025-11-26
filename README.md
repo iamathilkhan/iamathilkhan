@@ -106,13 +106,6 @@ Trained neural networks to predict fishing chance prediction and sea disaster ri
 
 **Results:** 🎯 89% accuracy | ⚡ <200ms response time | 🧠 Two independent Sequential models
 
-#### 📸 Neptune Preview
-```
-[Add screenshot here: Neptune dashboard showing prediction interface]
-[Add GIF here: Real-time prediction flow from data input to results]
-```
-
----
 
 ### 🔐 SecurePay — Biometric Authentication System
 
@@ -121,13 +114,6 @@ Trained neural networks to predict fishing chance prediction and sea disaster ri
 Building a secure payment platform with multi-modal biometric authentication. Face recognition model trained on custom dataset with 92% accuracy. Complete Flask backend architecture with modular design. Frontend integration in progress.
 
 **Status:** 📊 80% complete (Routes & Transaction left) | 👤 Face recognition: In Development | 🚨 Fraud detection model: In Development
-
-#### 📸 SecurePay Preview
-```
-[Add screenshot here: Face recognition authentication interface]
-[Add screenshot here: Payment dashboard UI]
-[Add GIF here: Authentication flow demonstration]
-```
 
 ---
 
@@ -142,13 +128,6 @@ A comprehensive web-based study planning application powered by cutting-edge AI 
 **Tech Stack:** Python | Flask | Transformers (Hugging Face) | PyTorch | HTML5 | CSS3
 
 **Status:** 🚀 Active Development
-
-#### 📸 Study Planner Preview
-```
-[Add screenshot here: Main study planner dashboard]
-[Add screenshot here: AI chat assistant interaction]
-```
-
 ---
 
 ### 📊 KNN Purchase Predictor
