@@ -15,6 +15,15 @@ I build machine learning systems and full-stack applications. Currently learning
 
 ---
 
+## 🔥 What I'm Working On Right Now
+
+- 🚀 **Neptune Deployment:** Building production pipeline with Docker + cloud deployment (ETA: Dec 2025)
+- 🔐 **SecurePay Fraud Detection:** Training ensemble model for real-time transaction monitoring (92% accuracy target)
+
+*Last updated: November 2025*
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages & Core
@@ -75,27 +84,60 @@ I build machine learning systems and full-stack applications. Currently learning
 
 ---
 
-## What I Build So Far
+## 🌟 Featured Projects
 
-### 🌊 [Neptune — Environmental Risk Prediction](https://github.com/iamathilkhan/Neptune)
-**ML Backend | TensorFlow | Flask | Real-time Predictions**
-
-Trained neural networks to predict fishing chance prediction and sea disaster risk percentage prediction from oceanographic data.It requires user to enter data by the next version of this project Im trying to integrate real-time data access to make it easier for user to predict fishing hotsopts and disaster prone zone
-
-**Results:** 🎯 89% accuracy | ⚡ <200ms response time | 🧠 Two independent Sequnetial models
+| Project | Tech Stack | Key Metrics | Demo/Preview | Repository |
+|---------|-----------|-------------|--------------|------------|
+| **🌊 Neptune** | TensorFlow, Flask, Neural Networks | 89% accuracy, <200ms response | [🚀 Coming Soon](#) | [📂 Repo](https://github.com/iamathilkhan/Neptune) |
+| **🔐 SecurePay** | Flask, OpenCV, TensorFlow, Face Recognition | 92% accuracy, Modular design | [📸 Screenshots](#securepay-preview) | [📂 Repo](https://github.com/iamathilkhan/SecurePay) |
+| **📚 AI Study Planner** | Flask, Transformers, PyTorch, NLP | Real-time NLP, Smart scheduling | [🎯 In Development](#) | [📂 Repo](https://github.com/iamathilkhan/Study-Planner) |
+| **📊 KNN Predictor** | Scikit-Learn, Flask, Classification | 85-92% accuracy | [🌐 Live Demo](#) | [📂 Repo](https://github.com/iamathilkhan/KNN-purchase-predictor) |
+| **🏡 Housing Predictor** | Linear Regression, Flask | R² = 0.91, RMSE ~$100K | [🎮 Interactive UI](#) | [📂 Repo](https://github.com/iamathilkhan/House-price-predictor) |
 
 ---
 
-### 🔐 [SecurePay — Biometric Authentication System](https://github.com/iamathilkhan/SecurePay)
+## 🎯 Project Deep Dives
+
+### 🌊 Neptune — Environmental Risk Prediction
+**ML Backend | TensorFlow | Flask | Real-time Predictions**
+
+Trained neural networks to predict fishing chance prediction and sea disaster risk percentage prediction from oceanographic data. It requires user to enter data by the next version of this project I'm trying to integrate real-time data access to make it easier for user to predict fishing hotspots and disaster prone zone.
+
+**Results:** 🎯 89% accuracy | ⚡ <200ms response time | 🧠 Two independent Sequential models
+
+#### 📸 Neptune Preview
+```
+[Add screenshot here: Neptune dashboard showing prediction interface]
+[Add GIF here: Real-time prediction flow from data input to results]
+```
+**To add your screenshots:**
+1. Take screenshots of your Neptune dashboard/interface
+2. Upload to `/assets/neptune-dashboard.png` in your repo
+3. Replace the placeholder with: `![Neptune Dashboard](assets/neptune-dashboard.png)`
+
+---
+
+### 🔐 SecurePay — Biometric Authentication System
 **Full-Stack | Flask | OpenCV | TensorFlow | Production in Progress**
 
 Building a secure payment platform with multi-modal biometric authentication. Face recognition model trained on custom dataset, 92% accuracy. Complete Flask backend architecture with modular design. Frontend integration in progress.
 
 **Status:** 📊 80% complete (Routes & Transaction left) | 👤 Face recognition: In Development | 🚨 Fraud detection model: In Development
 
+#### 📸 SecurePay Preview
+```
+[Add screenshot here: Face recognition authentication interface]
+[Add screenshot here: Payment dashboard UI]
+[Add GIF here: Authentication flow demonstration]
+```
+**To add your screenshots:**
+1. Capture face recognition interface and payment flow
+2. Upload to `/assets/securepay-auth.png` and `/assets/securepay-dashboard.png`
+3. Replace placeholders with: `![SecurePay Auth](assets/securepay-auth.png)`
+
 ---
 
-### 📚 [AI-Powered Study Planner](https://github.com/iamathilkhan/Study-Planner)
+### 📚 AI-Powered Study Planner
 **Flask | Transformers | PyTorch | NLP | Intelligent Academic Assistant**
 
 A comprehensive web-based study planning application powered by cutting-edge AI technology. Smart scheduling engine with AI-powered academic assistant using advanced NLP (Transformers) for real-time student support and personalized learning recommendations.
@@ -106,9 +148,15 @@ A comprehensive web-based study planning application powered by cutting-edge AI 
 
 **Status:** 🚀 Active Development
 
+#### 📸 Study Planner Preview
+```
+[Add screenshot here: Main study planner dashboard]
+[Add screenshot here: AI chat assistant interaction]
+```
+
 ---
 
-### 📊 [KNN Purchase Predictor](https://github.com/iamathilkhan/KNN-purchase-predictor)
+### 📊 KNN Purchase Predictor
 **Classification | Scikit-Learn | Flask | Web Interface**
 
 K-Nearest Neighbors classifier predicting customer purchase behavior. Trained on social network advertising dataset (400 samples). Achieved 85-92% accuracy with optimized k-value selection and feature scaling.
@@ -117,7 +165,7 @@ K-Nearest Neighbors classifier predicting customer purchase behavior. Trained on
 
 ---
 
-### 🚢 [Titanic Survival Classifier](https://github.com/iamathilkhan/Titanic-Survival-Predictor)
+### 🚢 Titanic Survival Classifier
 **Binary Classification | Logistic Regression | Data Analysis**
 
 Logistic regression model for passenger survival prediction. Focused on data preprocessing, missing value handling, and categorical encoding. Achieved 82% accuracy on validation set.
@@ -126,7 +174,7 @@ Logistic regression model for passenger survival prediction. Focused on data pre
 
 ---
 
-### 🏡 [USA Housing Price Predictor](https://github.com/iamathilkhan/House-price-predictor)
+### 🏡 USA Housing Price Predictor
 **Regression | Flask Web App | Scikit-Learn**
 
 Linear regression system predicting house prices from demographic and geographic features. R² score: 0.91 (excellent fit). Deployed with interactive Flask interface.
@@ -175,7 +223,7 @@ Linear regression system predicting house prices from demographic and geographic
 
 ### Immediate (2025-2026)
 - 🎯 Secure AI/ML or Web Dev internship by **December 2025**
-- 📱 Deploy Neptune to production ( Will be available soon )
+- 📱 Deploy Neptune to production (Will be available soon)
 - 🔐 Complete SecurePay frontend + fraud detection
 
 ### Medium-term (2026)
@@ -219,3 +267,41 @@ Linear regression system predicting house prices from demographic and geographic
 <p align="center">
   ⭐ If you found this interesting, consider giving my repos a star! It helps me stay motivated.
 </p>
+
+---
+
+## 📝 How to Add Screenshots to Your README
+
+**Quick Setup Guide:**
+
+1. **Create an assets folder** in your GitHub repo root:
+   ```
+   mkdir assets
+   ```
+
+2. **Take screenshots/record GIFs** of your projects:
+   - Use **Snipping Tool** (Windows) or **Screenshot** (Mac) for images
+   - Use **ScreenToGif** or **LICEcap** for animated GIFs
+   - Recommended size: 800-1200px width for clarity
+
+3. **Upload to `/assets/` folder:**
+   - Neptune: `neptune-dashboard.png`, `neptune-demo.gif`
+   - SecurePay: `securepay-auth.png`, `securepay-flow.gif`
+   - Study Planner: `study-planner-ui.png`, `ai-chat.png`
+
+4. **Replace placeholders in README** with:
+   ```markdown
+   ![Project Name](assets/your-image.png)
+   ```
+   or for GIFs:
+   ```markdown
+   ![Demo](assets/your-demo.gif)
+   ```
+
+5. **Commit and push** to see them live on your profile!
+
+**Pro Tips:**
+- Keep file sizes under 10MB for faster loading
+- Use descriptive filenames: `neptune-prediction-interface.png` not `img1.png`
+- Add alt text for accessibility
+- GIFs are powerful—show the actual user flow in 5-10 seconds
