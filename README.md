@@ -88,11 +88,11 @@ I build machine learning systems and full-stack applications. Currently learning
 
 | Project | Tech Stack | Key Metrics | Demo/Preview | Repository |
 |---------|-----------|-------------|--------------|------------|
-| **🌊 Neptune** | TensorFlow, Flask, Neural Networks | 89% accuracy, <200ms response | [🚀 Coming Soon](#) | [📂 Repo](https://github.com/iamathilkhan/Neptune) |
-| **🔐 SecurePay** | Flask, OpenCV, TensorFlow, Face Recognition | 92% accuracy, Modular design | [📸 Screenshots](#) | [📂 Repo](https://github.com/iamathilkhan/SecurePay) |
-| **📚 AI Study Planner** | Flask, Transformers, PyTorch, NLP | Real-time NLP, Smart scheduling | [🎯 In Development](#) | [📂 Repo](https://github.com/iamathilkhan/Study-Planner) |
-| **📊 KNN Predictor** | Scikit-Learn, Flask, Classification | 85-92% accuracy | [🌐 Live Demo](#) | [📂 Repo](https://github.com/iamathilkhan/KNN-purchase-predictor) |
-| **🏡 Housing Predictor** | Linear Regression, Flask | R² = 0.91, RMSE ~$100K | [🎮 Interactive UI](#) | [📂 Repo](https://github.com/iamathilkhan/House-price-predictor) |
+| **🌊 Neptune** | TensorFlow, Flask, Neural Networks | 89% accuracy, <200ms response | [📂 Repo](https://github.com/iamathilkhan/Neptune) |
+| **🔐 SecurePay** | Flask, OpenCV, TensorFlow, Face Recognition | 92% accuracy, Modular design | [📂 Repo](https://github.com/iamathilkhan/SecurePay) |
+| **📚 AI Study Planner** | Flask, Transformers, PyTorch, NLP | Real-time NLP, Smart scheduling | [📂 Repo](https://github.com/iamathilkhan/Study-Planner) |
+| **📊 KNN Predictor** | Scikit-Learn, Flask, Classification | 85-92% accuracy | [📂 Repo](https://github.com/iamathilkhan/KNN-purchase-predictor) |
+| **🏡 Housing Predictor** | Linear Regression, Flask | R² = 0.91, RMSE ~$100K | [📂 Repo](https://github.com/iamathilkhan/House-price-predictor) |
 
 ---
 
