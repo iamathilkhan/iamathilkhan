@@ -9,16 +9,17 @@
 
 ## 🚀 Quick Intro
 
-I build machine learning systems and full-stack applications. Currently learning production-level AI architecture, biometric authentication, and web deployment. Actively looking for internship opportunities in Web Development and AI/ML roles.
+I build machine learning systems, full-stack applications, and AI-powered developer tools. Currently exploring production-level AI architecture, personalized learning systems, biometric authentication, and web deployment. Actively seeking internships in Web Development and AI/ML roles.
 
-**Currently:** 3rd Year, CSE | CGPA: 7.8 | Learning: TensorFlow, Flask, React
+**Currently:** 3rd Year, CSE | CGPA: 7.8 | Learning: TensorFlow, Flask, React, Transformers
 
 ---
 
 ## 🔥 What I'm Working On Right Now
 
-- 🚀 **Neptune Deployment:** Building production pipeline with Docker + cloud deployment (ETA: Dec 2025)
-- 🔐 **SecurePay Fraud Detection:** Training ensemble model for real-time transaction monitoring (92% accuracy target)
+- 🧠 **ZeroMind AI:** Building an AI-powered coding mentor platform that corrects beginner programming errors, provides tailored exercises based on recurring mistakes, tracks progression, and offers long-term improvement suggestions (ETA: Feb 2026)
+- 🚀 **Neptune Deployment:** Production ML pipeline with Docker + cloud deployment (ETA: Dec 2025)
+- 🔐 **SecurePay Fraud Detection:** Ensemble model for real-time transaction monitoring (92% accuracy target)
 
 *Last updated: November 2025*
 
@@ -55,108 +56,32 @@ I build machine learning systems and full-stack applications. Currently learning
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamathilkhan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamathilkhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Contribution Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=radical&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamathilkhan&theme=github-compact&hide_border=true&bg_color=0d1117&color=e05397&line=e05397&point=FFFFFF" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamathilkhan&theme=radical&no-frame=true&row=1&column=5" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 | Project | Tech Stack | Key Metrics | Repository |
 |---------|-----------|-------------|------------|
+| **🧠 ZeroMind AI** | Python, Flask, React, Transformers | Personalized coding mentor, tracks skill improvement | [📂 Repo](#)
 | **🌊 Neptune** | TensorFlow, Flask, Neural Networks | 89% accuracy, <200ms response | [📂 Repo](https://github.com/iamathilkhan/Neptune) |
 | **🔐 SecurePay** | Flask, OpenCV, TensorFlow, Face Recognition | 92% accuracy, Modular design | [📂 Repo](https://github.com/iamathilkhan/SecurePay) |
 | **📚 AI Study Planner** | Flask, Transformers, PyTorch, NLP | Real-time NLP, Smart scheduling | [📂 Repo](https://github.com/iamathilkhan/Study-Planner) |
-| **📊 KNN Predictor** | Scikit-Learn, Flask, Classification | 85-92% accuracy | [📂 Repo](https://github.com/iamathilkhan/KNN-purchase-predictor) |
-| **🏡 Housing Predictor** | Linear Regression, Flask | R² = 0.91, RMSE ~$100K | [📂 Repo](https://github.com/iamathilkhan/House-price-predictor) |
 
 ---
 
-## 🎯 Project Deep Dives
+## 🎯 Project Deep Dive
 
-### 🌊 Neptune — Environmental Risk Prediction
+### 🧠 ZeroMind AI — AI-Powered Coding Mentor
 
-**ML Backend | TensorFlow | Flask | Real-time Predictions**
+**Full-Stack | Flask | React | Transformers | Personalized Learning**
 
-Trained neural networks to predict fishing chance prediction and sea disaster risk percentage prediction from oceanographic data. Currently requires user to enter data manually. Next version will integrate real-time data access to make it easier for users to predict fishing hotspots and disaster-prone zones.
+An interactive platform for beginner programmers that automatically corrects coding errors, explains mistakes, tracks progress, and suggests tailored exercises for long-term improvement. The system adapts to recurring mistakes to accelerate learning and provides detailed progress analytics.
 
-**Results:** 🎯 89% accuracy | ⚡ <200ms response time | 🧠 Two independent Sequential models
+**Key Features:**
+- Personalized error correction and explanations
+- Tailored exercises for repeated mistakes
+- Progress tracking with skill growth metrics
+- Web-based interactive coding environment
 
-
-### 🔐 SecurePay — Biometric Authentication System
-
-**Full-Stack | Flask | OpenCV | TensorFlow | Production in Progress**
-
-Building a secure payment platform with multi-modal biometric authentication. Face recognition model trained on custom dataset with 92% accuracy. Complete Flask backend architecture with modular design. Frontend integration in progress.
-
-**Status:** 📊 80% complete (Routes & Transaction left) | 👤 Face recognition: In Development | 🚨 Fraud detection model: In Development
-
----
-
-### 📚 AI-Powered Study Planner
-
-**Flask | Transformers | PyTorch | NLP | Intelligent Academic Assistant**
-
-A comprehensive web-based study planning application powered by cutting-edge AI technology. Smart scheduling engine with AI-powered academic assistant using advanced NLP (Transformers) for real-time student support and personalized learning recommendations.
-
-**Key Features:** 🎯 Smart personalized scheduling | 🤖 AI-powered NLP assistant | 📈 Real-time progress tracking | 💬 Interactive chat interface | 🎨 Responsive web design
-
-**Tech Stack:** Python | Flask | Transformers (Hugging Face) | PyTorch | HTML5 | CSS3
-
-**Status:** 🚀 Active Development
----
-
-### 📊 KNN Purchase Predictor
-
-**Classification | Scikit-Learn | Flask | Web Interface**
-
-K-Nearest Neighbors classifier predicting customer purchase behavior. Trained on social network advertising dataset (400 samples). Achieved 85-92% accuracy with optimized k-value selection and feature scaling.
-
-**Results:** 📈 85-92% accuracy | 🔧 Feature scaling & normalization implemented | 🌐 Deployed with Flask UI
-
----
-
-### 🚢 Titanic Survival Classifier
-
-**Binary Classification | Logistic Regression | Data Analysis**
-
-Logistic regression model for passenger survival prediction. Focused on data preprocessing, missing value handling, and categorical encoding. Achieved 82% accuracy on validation set.
-
-**Results:** ✅ 82% accuracy | 🎯 7 engineered features | 📋 Complete EDA included
-
----
-
-### 🏡 USA Housing Price Predictor
-
-**Regression | Flask Web App | Scikit-Learn**
-
-Linear regression system predicting house prices from demographic and geographic features. R² score: 0.91 (excellent fit). Deployed with interactive Flask interface.
-
-**Results:** 📊 R² = 0.91 | 💯 RMSE: ~$100K | 🎮 Live prediction interface
+**Status:** 🚀 Active Development | ETA: Feb 2026
 
 ---
 
@@ -175,8 +100,9 @@ Linear regression system predicting house prices from demographic and geographic
 
 ### Immediate (2025-2026)
 - 🎯 Secure AI/ML or Web Dev internship by **December 2025**
-- 📱 Deploy Neptune to production (Will be available soon)
-- 🔐 Complete SecurePay frontend + fraud detection
+- 🧠 Complete ZeroMind AI MVP and beta testing
+- 🚀 Deploy Neptune to production
+- 🔐 Finish SecurePay frontend + fraud detection
 
 ### Medium-term (2026)
 - 🏢 Full-time developer role
@@ -189,33 +115,15 @@ Linear regression system predicting house prices from demographic and geographic
 ## 📬 Let's Connect
 
 <p align="center">
-
-**📧 Email:** [athilkhan2005@gmail.com](mailto:athilkhan2005@gmail.com)
+**📧 Email:** [athilkhan2005@gmail.com](mailto:athilkhan2005@gmail)
 
 **🔗 LinkedIn:** [linkedin.com/in/ahamed-athil-khan](https://linkedin.com/in/ahamed-athil-khan)
 
 **💻 GitHub:** [github.com/iamathilkhan](https://github.com/iamathilkhan)
 
 **📝 Medium:** [medium.com/@athilkhan2005](https://medium.com/@athilkhan2005)
-
 </p>
-
----
-
-## 📌 Latest Activity
-
-- 🔄 Building Neptune deployment pipeline
-- 🛠️ Developing SecurePay fraud detection module
-- 🤖 Implementing AI-Powered Study Planner with NLP assistant
-- 📋 Actively applying for internships (Web Dev & AI/ML)
-- 🌱 Next: Deploy Neptune live + contribute to open-source
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ahamed%20Athil%20Khan-000000?style=for-the-badge" />
-</p>
-
-<p align="center">
-  ⭐ If you found this interesting, consider giving my repos a star! It helps me stay motivated.
 </p>
