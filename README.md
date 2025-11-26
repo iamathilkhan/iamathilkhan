@@ -91,7 +91,7 @@ Trained neural networks to predict fishing chance prediction and sea disaster ri
 
 Building a secure payment platform with multi-modal biometric authentication. Face recognition model trained on custom dataset, 92% accuracy. Complete Flask backend architecture with modular design. Frontend integration in progress.
 
-**Status:** 📊 43% complete (Architecture & backend complete) | 👤 Face recognition: In Development | 🚨 Fraud detection model: In Development
+**Status:** 📊 80% complete (Routes & Transaction left) | 👤 Face recognition: In Development | 🚨 Fraud detection model: In Development
 
 ---
 
