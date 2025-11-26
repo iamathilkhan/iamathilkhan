@@ -137,13 +137,22 @@ NLP-powered smart scheduling and academic assistant.
 
 ---
 
+
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:athilkhan2005@gmail.com"><b>Email</b></a> |
-  <a href="https://linkedin.com/in/ahamed-athil-khan"><b>LinkedIn</b></a> |
-  <a href="https://github.com/iamathilkhan"><b>GitHub</b></a> |
-  <a href="https://medium.com/@athilkhan2005"><b>Medium</b></a>
+  <a href="mailto:athilkhan2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/ahamed-athil-khan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/iamathilkhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@athilkhan2005" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 ---
