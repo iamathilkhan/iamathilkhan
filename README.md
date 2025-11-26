@@ -86,8 +86,8 @@ I build machine learning systems and full-stack applications. Currently learning
 
 ## 🌟 Featured Projects
 
-| Project | Tech Stack | Key Metrics | Demo/Preview | Repository |
-|---------|-----------|-------------|--------------|------------|
+| Project | Tech Stack | Key Metrics | Repository |
+|---------|-----------|-------------|------------|
 | **🌊 Neptune** | TensorFlow, Flask, Neural Networks | 89% accuracy, <200ms response | [📂 Repo](https://github.com/iamathilkhan/Neptune) |
 | **🔐 SecurePay** | Flask, OpenCV, TensorFlow, Face Recognition | 92% accuracy, Modular design | [📂 Repo](https://github.com/iamathilkhan/SecurePay) |
 | **📚 AI Study Planner** | Flask, Transformers, PyTorch, NLP | Real-time NLP, Smart scheduling | [📂 Repo](https://github.com/iamathilkhan/Study-Planner) |
