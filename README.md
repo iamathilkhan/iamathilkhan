@@ -93,11 +93,9 @@ Ambitious third-year CS student with a competitive drive and legacy mindset, **o
 | Project                   | Tech Stack                                  | Key Metrics                | Repo Link                                  |
 |---------------------------|---------------------------------------------|----------------------------|--------------------------------------------|
 | **🧠 ZeroMind AI**        | Python, Flask, React, Transformers          | Code mentor, adaptive NLP  | *Coming Soon*                              |
-| **🌊 Neptune**            | TensorFlow, Flask, Neural Networks          | 89% accuracy, <200ms resp  | [Neptune Repo](https://github.com/iamathilkhan/Neptune) |
-| **🔐 SecurePay**          | Flask, OpenCV, TensorFlow, Face Recognition | 92% accuracy, modular      | [SecurePay Repo](https://github.com/iamathilkhan/SecurePay) |
+| **🌊 Neptune**            | TensorFlow, Flask, Neural Networks          | <200ms resp  | [Neptune Repo](https://github.com/iamathilkhan/Neptune) |
+| **🔐 SecurePay**          | Flask, OpenCV, TensorFlow, Face Recognition |  modular      | [SecurePay Repo](https://github.com/iamathilkhan/SecurePay) |
 | **📚 AI Study Planner**   | Flask, Transformers, PyTorch, NLP           | Real-time NLP, scheduling  | [Study Planner Repo](https://github.com/iamathilkhan/Study-Planner) |
-| **📊 KNN Predictor**      | Scikit-Learn, Flask, Classification         | 85-92% accuracy            | [KNN Predictor Repo](https://github.com/iamathilkhan/KNN-purchase-predictor) |
-| **🏡 Housing Predictor**  | Linear Regression, Flask                    | R²=0.91, RMSE ~$100K       | [House Price Repo](https://github.com/iamathilkhan/House-price-predictor) |
 
 ---
 
