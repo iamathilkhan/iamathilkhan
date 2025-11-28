@@ -1,173 +1,177 @@
-## ✨ Ahamed Athil Khan M V
+# Hi, I'm Ahamed Athil Khan 👋
 
-**CS Student • Building ML Systems • Full-Stack Developer • ML Internship Seeker**
+**CS Student | AI/ML Engineer | Full-Stack Developer**
 
-[![GitHub Followers](https://img.shields.io/github/followers/iamathilkhan?style=social&label=Follow)](https://github.com/iamathilkhan)
-[![Profile Views](https://komarev.com/ghpvc/?username=iamathilkhan&color=brightgreen&style=flat-square)](https://github.com/iamathilkhan)
+Building intelligent systems that solve real problems. Passionate about machine learning, modern web development, and creating user-centric applications.
 
----
-
-## 🚀 Quick Intro
-
-Ambitious third-year CS student with a competitive drive and legacy mindset, **obsessed with building practical AI and full-stack solutions**. Currently learning production-level AI architecture, biometric authentication, and cloud deployment.
-
-- **CGPA:** 7.8 | **Learning:** TensorFlow, Flask, React, Transformers  
-- **Open to:** AI/ML & Web Development internships (Apply by Dec 2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahamed-athil-khan)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athilkhan2005@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@athilkhan2005)
 
 ---
 
-## 🔥 Current Projects
+## 🎯 About Me
 
-- 🧠 **ZeroMind AI:** AI-powered coding mentor—corrects errors, tracks progress, and offers tailored exercises. Adaptive learning for beginners.  
-  *ETA: Feb 2026 | Repo Coming Soon*
+Third-year Computer Science student with hands-on experience building production-ready ML applications and modern web interfaces. I specialize in end-to-end development—from training models to deploying scalable APIs with React frontends.
 
-- 🚀 **Neptune Deployment:** Production ML pipeline (TensorFlow + Flask) with Docker, cloud hosting, and fast real-time predictions.  
-  [📂 Repo](https://github.com/iamathilkhan/Neptune) | ETA: Dec 2025
-
-- 🔐 **SecurePay Fraud Detection:** Biometric authentication platform with robust ensemble model for real-time transaction monitoring (92% accuracy).  
-  [📂 Repo](https://github.com/iamathilkhan/SecurePay)
-
-*Last updated: November 2025*
+- 🎓 **CGPA:** 7.8/10 | Strong foundation in algorithms, data structures, and ML
+- 🔭 **Currently:** Deploying ML models to production with Docker & cloud services
+- 🌱 **Learning:** Advanced TensorFlow architectures, React optimization, cloud infrastructure
+- 💼 **Seeking:** AI/ML or Full-Stack Development internships starting December 2025
+- ⚡ **Fun fact:** I believe the best code is code that doesn't need comments
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-**Languages & Core:**  
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+### 🧠 [ZeroMind AI](https://github.com/iamathilkhan/zeromind) — *In Development*
+**AI-Powered Coding Mentor Platform**
 
-**Machine Learning & AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+An intelligent tutoring system that helps beginners learn to code through real-time error analysis and personalized recommendations.
 
-**Web & Backend:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+**Tech Stack:** Python • Flask • React • Transformers • NLP  
+**Key Features:** 
+- Real-time code error detection and correction
+- Personalized learning path generation
+- Progress tracking with analytics dashboard
+- Interactive React UI with syntax highlighting
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)  
+**Status:** Beta launch February 2026
 
 ---
 
-## 📊 GitHub Contribution Stats
+### 🌊 [Neptune](https://github.com/iamathilkhan/Neptune)
+**Production ML Pipeline for Environmental Monitoring**
+
+End-to-end machine learning system for predicting environmental risks from oceanographic data with sub-200ms response times.
+
+**Tech Stack:** TensorFlow • Flask • React • Docker • Neural Networks  
+**Key Features:**
+- Real-time prediction API with 92% accuracy
+- Interactive React dashboard for data visualization
+- Dockerized deployment for scalability
+- RESTful API architecture
+
+**Impact:** Processes 1000+ predictions/hour with consistent performance
+
+---
+
+### 🔐 [SecurePay](https://github.com/iamathilkhan/SecurePay)
+**Biometric Payment Authentication System**
+
+Secure transaction platform combining facial recognition with fraud detection algorithms for enhanced payment security.
+
+**Tech Stack:** Flask • OpenCV • TensorFlow • React • Face Recognition API  
+**Key Features:**
+- Real-time biometric authentication (92% accuracy)
+- Fraud detection with ensemble ML models
+- Modern React frontend with responsive design
+- Secure session management
+
+**Security:** Implements multi-layer verification with encrypted data handling
+
+---
+
+### 📚 [AI Study Planner](https://github.com/iamathilkhan/Study-Planner)
+**Intelligent Academic Assistant**
+
+NLP-powered study planning tool that generates personalized schedules and provides smart recommendations based on learning patterns.
+
+**Tech Stack:** Flask • PyTorch • Transformers • React • NLP  
+**Key Features:**
+- Natural language task parsing
+- Dynamic schedule optimization
+- Progress tracking and analytics
+- Clean, intuitive React interface
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamathilkhan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamathilkhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamathilkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamathilkhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 ---
 
-## 🔥 Streak & Activity
+## 🏆 What I Bring to Your Team
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=radical&hide_border=true&background=0d1117" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamathilkhan&theme=github-compact&hide_border=true&bg_color=0d1117&color=e05397&line=e05397&point=FFFFFF" width="100%" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamathilkhan&theme=radical&no-frame=true&row=1&column=5" width="100%" />
-</p>
+✅ **End-to-End Development:** From model training to production deployment with modern web interfaces  
+✅ **Problem Solver:** Strong algorithmic thinking with practical implementation skills  
+✅ **Quick Learner:** Rapidly adapt to new technologies and frameworks  
+✅ **Team Player:** Experience collaborating on technical projects with clear documentation  
+✅ **Production Mindset:** Focus on scalable, maintainable, and well-tested code
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 Current Goals
 
-| Project                   | Tech Stack                                  | Key Metrics                | Repo Link                                  |
-|---------------------------|---------------------------------------------|----------------------------|--------------------------------------------|
-| **🧠 ZeroMind AI**        | Python, Flask, React, Transformers          | Code mentor, adaptive NLP  | *Coming Soon*                              |
-| **🌊 Neptune**            | TensorFlow, Flask, Neural Networks          | <200ms resp  | [Neptune Repo](https://github.com/iamathilkhan/Neptune) |
-| **🔐 SecurePay**          | Flask, OpenCV, TensorFlow, Face Recognition |  modular      | [SecurePay Repo](https://github.com/iamathilkhan/SecurePay) |
-| **📚 AI Study Planner**   | Flask, Transformers, PyTorch, NLP           | Real-time NLP, scheduling  | [Study Planner Repo](https://github.com/iamathilkhan/Study-Planner) |
-
----
-
-## 🎯 Deep Dives
-
-### 🧠 ZeroMind AI — Coding Mentor 🔥 *(Active Development)*
-Personalized error correction, analytics, and tailored improvement for coding beginners. [Full-stack, Flask/React, Transformers]
-
-### 🌊 Neptune — Environmental ML Pipeline
-Real-time risk prediction from oceanographic data, ML deployment & automation.
-
-### 🔐 SecurePay — Biometric Authentication
-Face recognition, fraud detection, and secure payment flows.
-
-### 📚 AI Study Planner
-NLP-powered smart scheduling and academic assistant.
+- 🚀 Deploy Neptune to cloud infrastructure (AWS/GCP)
+- 🤖 Launch ZeroMind AI beta version
+- ☁️ Master containerization and orchestration (Docker, Kubernetes)
+- 📖 Contribute to open-source ML projects
+- 💼 Secure a challenging internship where I can make real impact
 
 ---
 
-## 💡 Competencies
+## 📫 Let's Connect
 
-| Machine Learning         | Full-Stack Dev         | Data Science            |
-|-------------------------|------------------------|-------------------------|
-| Classification/Regression| Flask Architecture    | Data Analysis/EDA       |
-| Neural Nets (ANN)       | React Frontend         | Feature Engg, Preproc   |
-| Model Tuning/Eval       | REST APIs, DB Mgmt     | Deployment & Modeling   |
+I'm always interested in discussing new opportunities, interesting projects, or just chatting about tech!
 
----
-
-## 🎯 Goals
-
-- 🏆 Secure **AI/ML/Web Dev internship** by Dec 2025
-- 🚀 Deploy Neptune & SecurePay (Production)
-- 🤖 Complete ZeroMind MVP & beta
-- ☁️ Learn Cloud (AWS/GCP), master ML deployment
-- 📖 Share technical solutions, contribute to open-source
-
----
-
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:athilkhan2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/ahamed-athil-khan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/iamathilkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://medium.com/@athilkhan2005" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
-
----
-
-## 📌 Latest Activity
-
-- 🚀 Building Neptune deployment pipeline
-- 🔐 Developing SecurePay fraud detection
-- 🤖 Implementing AI Study Planner (NLP Assistant)
-- 📋 Applying for internships in AI/ML/Web Dev
-- 🌱 Next: Deploy Neptune live • Contribute to open source
+**📧 Email:** [athilkhan2005@gmail.com](mailto:athilkhan2005@gmail.com)  
+**💼 LinkedIn:** [ahamed-athil-khan](https://linkedin.com/in/ahamed-athil-khan)  
+**📝 Medium:** [@athilkhan2005](https://medium.com/@athilkhan2005)  
+**🐙 GitHub:** [@iamathilkhan](https://github.com/iamathilkhan)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ahamed%20Athil%20Khan-000000?style=for-the-badge" />
+  <i>Open to internship opportunities in AI/ML and Full-Stack Development</i><br>
+  <i>Available from December 2025</i>
 </p>
+
 <p align="center">
-  ⭐ Star my repos if you find them useful. Your support keeps my momentum going!
+  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
+
+---
+
+⭐️ **If you find my work interesting, consider starring my repositories!**
