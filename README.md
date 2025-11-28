@@ -121,14 +121,23 @@ NLP-powered study planning tool that generates personalized schedules and provid
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamathilkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamathilkhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iamthilkhan&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iamthilkhan&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamthilkhan&show_icons=true" />
+  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=dark&hide_border=false" alt="GitHub Streak" height="195">
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthilkhan&theme=dark)
 
 ---
 
