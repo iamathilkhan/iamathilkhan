@@ -166,7 +166,7 @@ I'm always interested in discussing new opportunities, interesting projects, or 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blue&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
 ---
