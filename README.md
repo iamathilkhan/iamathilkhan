@@ -24,8 +24,8 @@ Third-year Computer Science student with hands-on experience building production
 
 ## 🚀 Featured Projects
 
-### 🧠 [ZeroMind AI](https://github.com/iamathilkhan/zeromind) — *In Development*
-**AI-Powered Coding Mentor Platform**
+### 🧠 [ZeroMind AI](https://github.com/iamathilkhan/zeromind) — *AI Coding Mentor*
+> **React + Flask + Transformers** | *Active Development - ETA: DEC 2026*
 
 An intelligent tutoring system that helps beginners learn to code through real-time error analysis and personalized recommendations.
 
@@ -40,8 +40,8 @@ An intelligent tutoring system that helps beginners learn to code through real-t
 
 ---
 
-### 🌊 [Neptune](https://github.com/iamathilkhan/Neptune)
-**Production ML Pipeline for Environmental Monitoring**
+### 🌊 [Neptune](https://github.com/iamathilkhan/Neptune)— *ML Production Pipeline*
+> **TensorFlow + Flask + React + Docker** 
 
 End-to-end machine learning system for predicting environmental risks from oceanographic data with sub-200ms response times.
 
@@ -56,24 +56,24 @@ End-to-end machine learning system for predicting environmental risks from ocean
 
 ---
 
-### 🔐 [SecurePay](https://github.com/iamathilkhan/SecurePay)
-**Biometric Payment Authentication System**
+### 🔐 [SecurePay](https://github.com/iamathilkhan/SecurePay)— *Biometric Fraud Detection*
+> **Flask + React + OpenCV + Face Recognition**
 
 Secure transaction platform combining facial recognition with fraud detection algorithms for enhanced payment security.
 
-**Tech Stack:** Flask • OpenCV • TensorFlow • React • Face Recognition API  
+**Tech Stack:** Flask • OpenCV • TensorFlow • Face Recognition API  
 **Key Features:**
 - Real-time biometric authentication (92% accuracy)
 - Fraud detection with ensemble ML models
-- Modern React frontend with responsive design
+- Modern frontend with responsive design
 - Secure session management
 
 **Security:** Implements multi-layer verification with encrypted data handling
 
 ---
 
-### 📚 [AI Study Planner](https://github.com/iamathilkhan/Study-Planner)
-**Intelligent Academic Assistant**
+### 📚 [AI Study Planner](https://github.com/iamathilkhan/Study-Planner)— *NLP Academic Assistant*
+> **Flask + React + Transformers + PyTorch**
 
 NLP-powered study planning tool that generates personalized schedules and provides smart recommendations based on learning patterns.
 
@@ -111,14 +111,14 @@ NLP-powered study planning tool that generates personalized schedules and provid
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-5C3EE8?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ---
-
 
 ## 📊 GitHub Statistics
 
