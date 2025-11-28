@@ -119,25 +119,13 @@ NLP-powered study planning tool that generates personalized schedules and provid
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=iamthilkhan&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=iamthilkhan&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=iamthilkhan&show_icons=true" />
-  </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=dark&hide_border=false" alt="GitHub Streak" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamathilkhan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamathilkhan&theme=dark&hide_border=true&background=0d1117" width="48%" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthilkhan&theme=dark)
 
 ---
 
