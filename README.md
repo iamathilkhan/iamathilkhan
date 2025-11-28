@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Ahamed+Athil+Khan;ML+Engineer+%7C+Full-Stack;Building+AI+Solutions" alt="Typing" />
+</div>
+
 # Hi, I'm Ahamed Athil Khan 👋
 
 **CS Student | AI/ML Engineer | Full-Stack Developer**
@@ -163,9 +167,6 @@ I'm always interested in discussing new opportunities, interesting projects, or 
 <p align="center">
   <i>Open to internship opportunities in AI/ML and Full-Stack Development</i><br>
   <i>Available from December 2025</i>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blue&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
