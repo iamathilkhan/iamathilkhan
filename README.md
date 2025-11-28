@@ -8,9 +8,14 @@
 
 Building intelligent systems that solve real problems. Passionate about machine learning, modern web development, and creating user-centric applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahamed-athil-khan)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athilkhan2005@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@athilkhan2005)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athilkhan2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahamed-athil-khan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@athilkhan2005)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blu&style=flat-square&label=Profile+Views" alt="Profile views">
+</p>
 
 ---
 
@@ -167,7 +172,6 @@ I'm always interested in discussing new opportunities, interesting projects, or 
 <p align="center">
   <i>Open to internship opportunities in AI/ML and Full-Stack Development</i><br>
   <i>Available from December 2025</i>
-  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blue&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
 ---
