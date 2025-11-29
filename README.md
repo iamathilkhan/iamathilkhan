@@ -14,7 +14,7 @@ Building intelligent systems that solve real problems. Passionate about machine 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@athilkhan2005)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blu&style=flat-square&label=Profile+Views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=iamathilkhan&color=blue&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
 ---
