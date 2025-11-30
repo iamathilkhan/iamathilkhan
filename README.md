@@ -45,7 +45,7 @@ An intelligent tutoring system that helps beginners learn to code through real-t
 - Progress tracking with analytics dashboard
 - Interactive React UI with syntax highlighting
 
-**Status:** Beta launch February 2026
+**Status:** Beta launch December 2025
 
 ---
 
