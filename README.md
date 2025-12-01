@@ -33,7 +33,7 @@ Third-year Computer Science student with hands-on experience building production
 
 ## 🚀 Featured Projects
 
-### 🧠 [ZeroMind AI](https://github.com/iamathilkhan/zeromind) — *AI Coding Mentor*
+### 🧠 [ZeroMind AI](https://github.com/iamathilkhan/ZeroMind-AI) — *AI Coding Mentor*
 > **React + Flask + Transformers** | *Active Development - ETA: DEC 2026*
 
 An intelligent tutoring system that helps beginners learn to code through real-time error analysis and personalized recommendations.
